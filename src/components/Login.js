@@ -3,6 +3,7 @@ import { handleloginclick } from "./alert"
 function Login(){
     return(
         <div id="container">
+            <h1>this page was created to react for DEMO</h1>
          <h1 id="logo">Login</h1>
          <form method="get">
           
